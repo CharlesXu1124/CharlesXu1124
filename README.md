@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### My recent posts:
+<!-- ### My recent posts: -->
 <!-- * [入侵win10](https://blog.csdn.net/zhaoyuhan1124/article/details/100436492) (September 03, 2019)
 * [USB挂马拿到WIFI密码思路](https://blog.csdn.net/zhaoyuhan1124/article/details/100190664) (September 02, 2019)
 * [实战：伪造MAC/IP地址入侵无线网](https://blog.csdn.net/zhaoyuhan1124/article/details/99805473) (August 20, 2019) -->
-* [Linux-Mint/Ubuntu 18.04 + RTX 2060 安全安装NVIDIA驱动+CUDA 10.0+cuDNN](https://blog.csdn.net/zhaoyuhan1124/article/details/99794032) (August 20, 2019)
+<!-- * [Linux-Mint/Ubuntu 18.04 + RTX 2060 安全安装NVIDIA驱动+CUDA 10.0+cuDNN](https://blog.csdn.net/zhaoyuhan1124/article/details/99794032) (August 20, 2019) -->
